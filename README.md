@@ -3,7 +3,7 @@
 - Aims to train and calibrate two machine learning models in order to predict the quality of milk samples
 - The milk dataset was collected from kaggle.com
   
-## Tachnologies
+## Technologies
 - Python
   
 ## How to run
